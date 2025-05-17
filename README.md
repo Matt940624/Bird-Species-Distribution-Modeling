@@ -1,1 +1,1 @@
-# Bird-Species-Distribution-Modeling
+# BirdSpeciesDistributionModeling
