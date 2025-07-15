@@ -33,7 +33,7 @@ The research project features the following components:
 
 - `notebooks`: Directory containing the image classification and tabular models
 - `images`: Directory containing images of species distribution on a map as well as feature importance
-- `Final_AI_Research_Paper.pdf`: File containing the write up of our methods
+- `finalPaper.pdf`: File containing the write up of our methods
 
 ## Technologies Used
 
